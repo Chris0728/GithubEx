@@ -30,8 +30,8 @@ public class math {
 		sc.close();
 	}
 	
-	public static double Addition(int num1, int num2) {
-		return 1;
+	public static int Addition(int num1, int num2) {
+		return num1 + num2;
 	}
 	public static double Subtraction(int num1, int num2) {
 		return 2;

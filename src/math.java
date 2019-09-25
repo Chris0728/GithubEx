@@ -26,7 +26,7 @@ public class math {
 		}
 		else {
 			System.out.println("Sorry! We do not understand your command.");
-			System.out.println("Thank you for using our service.");
+		
 		}
 		sc.close();
 	}

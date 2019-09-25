@@ -42,6 +42,7 @@ public class math {
 	public static double Division(int num1, int num2) {
 		//division function
 		return (num1/num2);
+
 	}
 	
 	}
